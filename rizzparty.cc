@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
-	cout<<"turkish quandale dingle"<<endl;
+	cout<<"Brainrot Quiz! Who is the group leader?>"<<endl;
+
+	cout << "The answer is blue tie kid!" << endl;
 	return 0;
 }
